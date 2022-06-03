@@ -20,6 +20,9 @@ export function Index() {
               <span> Hello there, </span>
               Welcome frontend 👋
             </h1>
+			  <p>
+				  This is a simple example of a React app built with Next.js.
+			  </p>
           </div>
 
           <div id="hero" className="rounded">
